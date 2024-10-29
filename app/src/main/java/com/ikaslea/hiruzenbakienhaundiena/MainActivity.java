@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
     TextView Erantzuna;
 
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
